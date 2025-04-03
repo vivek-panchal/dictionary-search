@@ -39,7 +39,7 @@ dictionary-search/
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/vivek-panchal/dictionary-search
+   git clone https://github.com/vivek-panchal/dictionary-search.git
    cd dictionary-search
    ```
 
@@ -69,6 +69,3 @@ Feel free to fork the repository and submit pull requests with improvements.
 
 This project is licensed under the MIT License.
 
----
-
-This version includes the Trie data structure and its role in the project. Let me know if you need any more refinements! 🚀
